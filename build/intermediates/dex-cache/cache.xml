@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joseph/Documents/Android studio model/aolozip/AOLO/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b06fd24c136011eeeb24ac056623c93fdd53b5fa">
+        <dex dex="/Users/joseph/Documents/Android studio model/aolozip/AOLO/app/build/intermediates/pre-dexed/debug/volley-14cb39e6674cd3276d291de6b90e4a7acb64ad2d.jar" />
+    </item>
+
+</items>
